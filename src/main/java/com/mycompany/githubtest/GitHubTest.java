@@ -14,7 +14,9 @@ public class GitHubTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("HELPP MEEE");
+        System.out.println("HELPP MEEE");
+        System.out.print("imagine actually exlainign thisg");
+        
     }
     
 }
